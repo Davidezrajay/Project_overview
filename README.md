@@ -26,7 +26,8 @@ See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12Xc
 
 * If you already know how, find your taks on a [project board](https://github.com/orgs/Greenstand/projects), fork your repository, do the work and open a pull pull request.
 
-* If 'fork and pull' doesn't make sense, read up on how to use Github's version control (some notes below.)
+* If the words 'fork and pull' doesn't make sense, please read up on how to use Github's version control (some notes below.)
+
 
 **Think Agile - Small Iterations - Clearly Defined SMALL pull requests.**
 
